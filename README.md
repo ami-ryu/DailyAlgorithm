@@ -6,11 +6,11 @@
 ### Data Structure
 |   | DataStructure  |  Description  | Problems (JS/Python3)  |
 |---|---|---|---|
-| 1  | Array  | [Description](https://github.com/DeveloperCookie/JavaScript-DataStructure-and-Algorithms/tree/main/Array)  |   |
+| 1  | Array  | [Description](https://github.com/DeveloperCookie/DailyAlgorithm/tree/master/Array)  | [Problems](https://github.com/DeveloperCookie/DailyAlgorithm/issues?q=is%3Aissue+is%3Aclosed+label%3AArray) |
 | 2  | List  |   |   |
-| 3  | Stack  | [Description](https://github.com/DeveloperCookie/JavaScript-DataStructure-and-Algorithms/blob/main/Stack/README.md)  | [Problems](https://github.com/DeveloperCookie/JavaScript-DataStructure-and-Algorithms/issues?q=is%3Aissue+is%3Aclosed+label%3AStack)  |
-| 4  | Queue  |   |   |
-| 5  | Linked List  |   |   |
+| 3  | Stack  | [Description](https://github.com/DeveloperCookie/DailyAlgorithm/tree/master/Stack)  | [Problems](https://github.com/DeveloperCookie/DailyAlgorithm/issues?q=is%3Aissue+is%3Aclosed+label%3AStack)  |
+| 4  | Queue  |   | [Problems](https://github.com/DeveloperCookie/DailyAlgorithm/issues?q=is%3Aissue+is%3Aclosed+label%3AQueue)  |
+| 5  | Linked List  |   | [Problems](https://github.com/DeveloperCookie/DailyAlgorithm/issues?q=is%3Aissue+is%3Aclosed+label%3A%22Linked+List%22)  |
 | 6  | Double Linked List  |   |   |
 | 7  | Circular Linked List  |   |   |
 | 8  | Dictionary  |   |   |
