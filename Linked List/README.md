@@ -4,12 +4,11 @@ Linked List is a **linear collection of data** elements whose order is not given
 Instead, each element **points** to the next.
 
 ### Use Cases
-Linked List is among the simplest and most common data structure.
-
-It can be used to implement several other common abstract data types, including lists, stacks, queues, etc.
+- Linked List is among the simplest and most common data structure.
+- It can be used to implement several other common abstract data types, including lists, stacks, queues, etc.
 
 ### Advantage of Linked List
-Nodes can easily be removed or added from a linked list.
+- Nodes can easily be removed or added from a linked list.
 
 ### Disadvantage of Linked List
 - Search Operations are slow.
