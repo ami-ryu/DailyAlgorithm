@@ -20,8 +20,6 @@ Instead, each element **points** to the next.
 3. Circular Linked List
 
 ## 1. Singly Linked List
-The simplest form of linked lists is a singly linked list.
-
 Singly Linked Lists contain nodes which have a data field as well as 'next' field, which pionts to the next node in line of nodes.
 
 ### Operations
