@@ -1,4 +1,4 @@
-# Stack
+# Queue
 First In - First Out data structure.
 
 ### Common Operations
