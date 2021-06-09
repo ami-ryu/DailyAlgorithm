@@ -16,7 +16,7 @@
 | 8  | Dictionary  | [Description](https://github.com/DeveloperCookie/DailyAlgorithm/tree/master/Dictionary)  |   |
 | 9 | Hashing  |   |   |
 | 10  | Set  |   |   |
-| 11  | Binary Tree, BST  |   |   |
+| 11  | Binary Tree, BST  | [Description](https://github.com/DeveloperCookie/DailyAlgorithm/tree/master/Binary%20Tree)  |   |
 | 12  | Graph  |   |   |
 
 ### Algorithms
