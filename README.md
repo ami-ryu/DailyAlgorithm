@@ -11,7 +11,7 @@
 | 3  | Stack  | [Description](https://github.com/DeveloperCookie/DailyAlgorithm/tree/master/Stack)  | [Problems](https://github.com/DeveloperCookie/DailyAlgorithm/issues?q=is%3Aissue+is%3Aclosed+label%3AStack)  |
 | 4  | Queue  | [Description](https://github.com/DeveloperCookie/DailyAlgorithm/tree/master/Queue)  | [Problems](https://github.com/DeveloperCookie/DailyAlgorithm/issues?q=is%3Aissue+is%3Aclosed+label%3AQueue)  |
 | 5  | Linked List  | [Description](https://github.com/DeveloperCookie/DailyAlgorithm/blob/master/Linked%20List/README.md)  | [Problems](https://github.com/DeveloperCookie/DailyAlgorithm/issues?q=is%3Aissue+is%3Aclosed+label%3A%22Linked+List%22)  |
-| 6  | Doubly Linked List  |   |   |
+| 6  | Doubly Linked List  | [Description](https://github.com/DeveloperCookie/DailyAlgorithm/tree/master/Doubly%20Linked%20List)  |   |
 | 7  | Circular Linked List  |   |   |
 | 8  | Dictionary  | [Description](https://github.com/DeveloperCookie/DailyAlgorithm/tree/master/Dictionary)  |   |
 | 9 | Hashing  |   |   |
