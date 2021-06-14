@@ -39,7 +39,12 @@
 - Drawing graphics
 
 ---
-
-## 🌟 Data Structure, Types
+# JavaScript Basic
+## ✔︎ Data Structure, Types
 - https://developer.mozilla.org/ko/docs/Web/JavaScript/Data_structures
 
+# ES6
+## ✔︎ Class
+- class description
+
+# Network, Memory, JS Engine
