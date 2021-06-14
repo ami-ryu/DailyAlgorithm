@@ -6,7 +6,7 @@
 ### Data Structure
 |   | DataStructure  |  Description  | Problems (JS/Python3)  |
 |---|---|---|---|
-| -  | JavaScript  | [Description]()  | 
+| -  | JavaScript  | [Description](https://github.com/DeveloperCookie/DailyAlgorithm/tree/master/Grammar)  | 
 | 1  | Array  | [Description](https://github.com/DeveloperCookie/DailyAlgorithm/tree/master/Array)  | [Problems](https://github.com/DeveloperCookie/DailyAlgorithm/issues?q=is%3Aissue+is%3Aclosed+label%3AArray) |
 | 2  | List  |   |   |
 | 3  | Stack  | [Description](https://github.com/DeveloperCookie/DailyAlgorithm/tree/master/Stack)  | [Problems](https://github.com/DeveloperCookie/DailyAlgorithm/issues?q=is%3Aissue+is%3Aclosed+label%3AStack)  |
