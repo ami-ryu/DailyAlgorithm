@@ -35,7 +35,7 @@ var s2 = s.substr(0, 3); // method allocates new values
 ### Reference
 - The main concept that garbage collection algorithms rely on is the concept of reference.
 
-### [Algorithm] Reference-counting garbage collection
+### [전략 1] Reference-counting garbage collection Algorithm
 - Example
 ```javascript
 var x = {
@@ -90,15 +90,25 @@ window.onload = function() {
 };
 ```
 
-### [Algorithm] Mark-and-sweep algorithm
+### [전략 2] Mark-and-sweep Algorithm
 - As of 2012, all modern browsers ship a mark-and-sweep garbage-collector.
 - 2012년 기준으로 모든 최신 브라우저들은 가비지 콜렉션에서 Mark-and-sweep algorithm 을 사용한다. 지난 몇 년간 연구된 자바스크립트 가비지 콜렉션 알고리즘의 개선들은 모두 이 알고리즘에 대한 것이다.
 
 - Cycles are no longer a problem
+- 자바스크립트의 최상위 객체인 global(window)에 도달할 수 없는 객체를 찾는 방식으로 작동한다. 이 알고리즘을 이용하면 순환참조의 경우에도 가바지 콜렉팅이 된다. 
 - This algorithm reduces the definition of "an object is no longer needed" to "an object is unreachable".
 - This algorithm assumes the knowledge of a set of objects called roots. In JavaScript, the root is the global object. Periodically, the garbage collector will start from these roots, find all objects that are referenced from these roots, then all objects referenced from these, etc. Starting from the roots, the garbage collector will thus find all reachable objects and collect all non-reachable objects.
 
-## Node.js
+## Node.js GC
+
+### Garbage Collection Methods
+1. Heap
+  - New Space
+  - Old Space
+2. Stack
+
+
+
 - Node.js offers additional options and tools for configuring and debugging memory issues that may not be available for JavaScript executed within a browser environment.
 
 ### V8 Engine Flags
@@ -112,3 +122,7 @@ We can also expose the garbage collector for debugging memory issues using a fla
 node --expose-gc --inspect index.js
 ```
 
+### Chrome Developer
+
+
+## JavaScript 메모리누수 상황
