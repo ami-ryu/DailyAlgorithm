@@ -1,5 +1,6 @@
 # DailyAlgorithm
 매일마다 Leetcode, HackerRank, EPI 등 자료구조 및 알고리즘 문제를 풀어서 코드를 올리는 레포입니다.
+문제 및 풀이는 [Issue 탭](https://github.com/DeveloperCookie/DailyAlgorithm/issues?q=is%3Aopen+is%3Aissue)에 정리하고 있습니다.
 
 ## 🌟 JavaScript-DataStructure-and-Algorithms
 
